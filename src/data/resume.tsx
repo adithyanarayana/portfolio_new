@@ -105,8 +105,8 @@ export const DATA = {
       location: "Santa Clara, CA",
       title: "Software Engineer",
       logoUrl: "/automate_logo.jpg",
-      start: "January 2020",
-      end: "April 2020",
+      start: "January 2022",
+      end: "December 2022",
       description:
         "Enhanced and maintained the AutomateEm website, increasing website traffic and addressed technical issues related to the company's application and resolved bugs also developed and maintained scalable backend applications using C and Java.",
     },
