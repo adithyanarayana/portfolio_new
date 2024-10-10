@@ -22,6 +22,7 @@ export const DATA = {
     "Postgres",
     "Docker",
     "Kubernetes",
+    "Salesforce",
     "Java",
     "C++",
     "R",
@@ -74,6 +75,18 @@ export const DATA = {
   },
 
   work: [
+    {
+      company: "Titanium Wireless",
+      href: "https://titaniumwireless.com/",
+      badges: [],
+      location: "Hybrid",
+      title: "Software Engineer",
+      logoUrl: "/tw_logo.jpg",
+      start: "October 2024",
+      end: "Present",
+      description:
+        "Software Engineer responsible for developing and optimizing systems using Salesforce and other platforms, while leading and collaborating on cross-functional projects. Focused on delivering innovative solutions to improve business operations.",
+    },
     {
       company: "Headstarter AI",
       href: "https://headstarter.co/",
